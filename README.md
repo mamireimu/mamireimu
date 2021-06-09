@@ -18,5 +18,5 @@
 - niconico: https://www.nicovideo.jp/user/7662393
 
 ### ネットワーク
-- Youtubeチャンネル「Yululi」様(https://yululiserver.jp)のMinecraftサーバーのインフラ管理
+- Youtubeチャンネル「Yululi」様のMinecraftサーバーのインフラ管理([Webサイト](https://yululiserver.jp))
 - Minecraftサーバー「[2b2t.jp](https://2b2t.jp)」のインフラ管理
