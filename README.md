@@ -20,3 +20,9 @@
 ### ネットワーク
 - Youtubeチャンネル「Yululi」様のMinecraftサーバーのインフラ管理([Webサイト](https://yululiserver.jp))
 - Minecraftサーバー「[2b2t.jp](https://2b2t.jp)」のインフラ管理
+
+## スタッフ経歴
+- 2017年 [結月ゆかり・紲星あかり中心VOICEROIDオンリー同人誌即売会「この声届け月までも 参」](http://koetsuki.com/)
+- 2018年 [結月ゆかり・紲星あかり中心VOICEROIDオンリー同人誌即売会「この声届け月までも 肆」](http://koetsuki.com/)
+- 2019年 [結月ゆかり・紲星あかり中心VOICEROIDオンリー同人誌即売会「この声届け月までも 伍」](http://koetsuki.com/)
+- 2020年 [マイクラオンリー同人イベント「マイフェス2020」](https://myfes.npjp.net/) 会場・ステージチーム(ネットワーク・配信スタッフ)担当
