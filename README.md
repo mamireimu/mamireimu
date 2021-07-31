@@ -20,6 +20,7 @@
 ### ネットワーク
 - Youtubeチャンネル「Yululi」様のMinecraftサーバーのインフラ管理([Webサイト](https://yululiserver.jp))
 - Minecraftサーバー「[2b2t.jp](https://2b2t.jp)」のインフラ管理
+- Minecraftサーバー「ワールドエンドこみゅにけーしょん Athletic Training」[技術提供](https://twitter.com/NecoB_WComm/status/1417805311612649472?s=20)(2021/07/31追記)
 
 ## スタッフ経歴
 - 2017年 [結月ゆかり・紲星あかり中心VOICEROIDオンリー同人誌即売会「この声届け月までも 参」](http://koetsuki.com/)
